@@ -1,3 +1,5 @@
-print(123)
+print(1)
 
-print(777)
+print(2)
+
+print(3)
